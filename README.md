@@ -1,1 +1,1 @@
-# cnn-for-cnn_cifar10-mnist
+# creating convolutional Neural Networks for cifar10 and mnist inbuilt datasets
